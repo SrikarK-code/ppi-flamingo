@@ -1,1 +1,4 @@
-test
+motif-specific binding using flamingo inspired multimodal architecture
+image = binding motifs
+text = target seq 
+TASK: text completion (binder seq generation)
